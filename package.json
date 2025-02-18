@@ -16,6 +16,7 @@
   },
   "dependencies": {
     "@auth/pg-adapter": "^0.2.15",
+    "@grapesjs/react": "2.0.0-rc.4",
     "@hookform/resolvers": "^3.6.0",
     "@radix-ui/react-avatar": "^1.0.4",
     "@radix-ui/react-dropdown-menu": "^2.0.6",
@@ -24,6 +25,7 @@
     "@radix-ui/react-slot": "^1.0.2",
     "class-variance-authority": "^0.4.0",
     "clsx": "^1.2.1",
+    "grapesjs": "^0.22.5",
     "lucide-react": "0.105.0-alpha.4",
     "next": "^14.0.4",
     "next-auth": "^4.24.5",
@@ -39,6 +41,7 @@
     "zod": "^3.23.8"
   },
   "devDependencies": {
+    "@biomejs/biome": "1.4.1",
     "@tailwindcss/line-clamp": "^0.4.4",
     "@tailwindcss/typography": "^0.5.10",
     "@types/node": "^17.0.45",
@@ -52,7 +55,6 @@
     "eslint-config-next": "14.0.4",
     "eslint-plugin-react": "^7.32.2",
     "eslint-plugin-tailwindcss": "^3.13.0",
-    "@biomejs/biome": "1.4.1",
     "husky": "^9.0.0",
     "postcss": "^8.4.24",
     "tailwindcss": "^3.3.2",
