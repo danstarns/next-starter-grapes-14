@@ -1,4 +1,4 @@
-"use client";
+'use client';
 
 import grapesjs, { Editor } from 'grapesjs';
 import GjsEditor from '@grapesjs/react';
